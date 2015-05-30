@@ -1,0 +1,10 @@
+$('#labelData').mask('00/00/0000');
+	
+	Query.validator.setDefaults({
+		debug:true,
+		success: "valid"
+	});
+	
+	
+	
+	<script src="js/jquery.inputmask.bundle.min.js"></script>
